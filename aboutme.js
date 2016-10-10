@@ -1,0 +1,11 @@
+var firstName = 'Troy';
+var lastName = 'Denney';
+var emailAddress = 'tvdenney@gmail.com';
+var didIGrowUpInTheCity = false;
+var numberOfYearsInCollege = 8;
+var highSchoolGraduationYear = 1992;
+var numberOfPets = 0;
+var numberOfChildren = 0;
+var favoriteGenreOfMusic = 'Top 40';
+var favoriteMovie = 'The Dark Knight';
+console.log(firstName, lastName, emailAddress, didIGrowUpInTheCity, numberOfYearsInCollege, highSchoolGraduationYear, numberOfPets, numberOfChildren, favoriteGenreOfMusic, favoriteMovie);
